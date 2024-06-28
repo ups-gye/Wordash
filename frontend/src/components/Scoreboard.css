@@ -1,0 +1,10 @@
+.scoreboard {
+    margin-top: 20px;
+  }
+  
+  .player {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+  }
+  
